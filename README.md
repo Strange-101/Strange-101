@@ -29,9 +29,10 @@ I am a passionate developer currently in my **(3rd Year)** of college, bridging 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strange-101&show_icons=true&theme=radical" alt="Kunal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strange-101&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+  <img src="https://readme-stats-fast.vercel.app/api?username=Strange-101&show_icons=true&theme=radical" alt="Kunal's Stats" />
+  <br/>
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Strange-101&layout=compact&theme=radical" alt="Top Langs" />
+</p>>
 
 ---
 
